@@ -6,4 +6,4 @@
 
 <b>- HTML+CSS</b>
 </br>
-<b>- JS</b>
+<b>- JavaScript</b>
